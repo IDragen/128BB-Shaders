@@ -21,6 +21,18 @@
     + [Super Smash Bros. Ultimate](#super-smash-bros-ultimate-1)
     + [The Legend of Zelda - Link Awakening](#the-legend-of-zelda---link-awakening)
     + [Xenoblade Chronicles 2](#xenoblade-chronicles-2)
+- [Ryujinx](#ryujinx)
+    + [Astral Chain](#astral-chain)
+    + [Dragon Ball FighterZ](#dragon-ball-fighterz)
+    + [Hyrule Warriors - Age of Calamity](#hyrule-warriors---age-of-calamity-1)
+    + [Mario Kart 8 Deluxe](#mario-kart-8-deluxe-1)
+    + [Mario Party Superstars](#mario-party-superstars)
+    + [Monster Hunter Generations Ultimate](#monster-hunter-generations-ultimate)
+    + [Pokemon Sword and Shield](#pokemon-sword-and-shield-1)
+    + [Splatoon 2](#splatoon-2)
+    + [Super Mario Odyssey](#super-mario-odyssey-2)
+    + [Super Mario Party](#super-mario-party)
+    + [Super Smash Bros. Ultimate](#super-smash-bros-ultimate-2)
 
 * * *
 
@@ -106,8 +118,47 @@
   
 # Ryujinx
 
- ### Astral Chain [1491]
+ ### Astral Chain
  `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3V5dWp6cjNkbXhhd2Rsbi9SWVVhc3RyYWxjaGFpbjE0OTEuN3ovZmlsZQ==`
- ### Dragon Ball FighterZ [319]
+ * Count: 1491
+ * Contributor: Ryulinks
+ ### Dragon Ball FighterZ
  `aHR0cDovL3d3dy5tZWRpYWZpcmUuY29tL2ZpbGUvY3JhamhsYnRzYjg3em5xL0RyYWdvbitCYWxsK0ZpZ2h0ZXJaK1szMTldLnJhci9maWxl`
-
+ * Count: 319
+ * Contributor:
+ ### Hyrule Warriors - Age of Calamity
+ `aHR0cDovL3d3dy5tZWRpYWZpcmUuY29tL2ZpbGUvZzc3Y2R5bGFyM2h6d2l4L0hXQW9DNzU1LnJhci9maWxl`
+ * Count: 755
+ * Contributor: ☣ Kryptuq ☣ RTX 3070 ☣	
+ ### Mario Kart 8 Deluxe
+ `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzg0eXNndXRnaTNtajRray9NUFNSeXVPcGVuR0wxMzA0LnppcC9maWxl`
+ * Count: 3853
+ * Contributor: I'm not gay get out of my way
+ ### Mario Party Superstars
+ `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzg0eXNndXRnaTNtajRray9NUFNSeXVPcGVuR0wxMzA0LnppcC9maWxl`
+ * Count: 1304
+ * Contributor: Capitaine J. Sparrow
+ ### Monster Hunter Generations Ultimate
+ `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2lieTlhazN1N243eTNicy9NSEdVX3NoYWRlcnMucmFyL2ZpbGU=`
+* Count: 2120
+* Contributor: ☠DAWG☠ 
+### Pokemon Sword and Shield
+`aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzR6MHB0eWV1YjhxYmhhZS9QS01OU1cxMDA4NC43ei9maWxl`
+* Count: 10084
+* Contributor: Destr0yer
+### Splatoon 2
+`aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3IyNnozZmx2ZnRyeWtrMy9TcGxhdG9vbisyKzM5ODUrU2hhZGVycy5yYXIvZmlsZQ==`
+* Count: 3985
+* Contributor:
+### Super Mario Odyssey
+`aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3FrYmw4YzlsdGhhZ2UzNy9SeXUtU01PK1s3MzcwXStTaGFkZXJzLnppcC9maWxl`
+* Count: 7370
+* Contributor: Thorgnar	
+### Super Mario Party
+`aHR0cDovL3d3dy5tZWRpYWZpcmUuY29tL2ZpbGUvNGxxeHJ3Mjl3NWl4dmh1L3N1cGVyX21hcmlvX3BhcnR5Xzc0My56aXAvZmlsZQ==`
+* Count: 743
+* Contributor: I'm not gay get out of my way
+### Super Smash Bros. Ultimate
+`aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzhrcTczZDNxazYzbDJiYS9TbWFzaFJ5dTIxMjk2Ljd6L2ZpbGU=`
+* Count: 21296
+* Contributor: Hmiza
