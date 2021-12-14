@@ -2,9 +2,8 @@
 ### Table of Contents
 
 - [Yuzu](#Yuzu)
-  + [Pre-Hades OpenGL](#Pre-Hades-OpenGL)
-  + [Post-Hades OpenGL](#Post-Hades-OpenGL)
-  + [Post-Hades Vulkan](#Post-Hades-Vulkan)
+  + [OpenGL](#OpenGL)
+  + [Vulkan](#Vulkan)
 
 
 - [Ryujinx](#Ryujinx)
@@ -12,7 +11,7 @@
 
 # Yuzu
   
-## Post-Hades OpenGL
+## OpenGL
   ### CTR Nitro Fueled [484]
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL253eGFxczFpcWozaXRmcS9DVFJORm9wZW5nbDQ4NC43ei9maWxl`
   ### Fire Emblem Three Houses [247]
@@ -30,7 +29,7 @@
   
   * * *
   
-## Post-Hades Vulkan
+## Vulkan
   ### Animal Crossing: New Horizons [4119]
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3FzajlydzgwYWM5OXBuYS9BQ05IdnVsa2FuNDExOS43ei9maWxl`
   ### Fire Emblem Three Houses [515]
