@@ -9,10 +9,8 @@
 - [Ryujinx](#Ryujinx)
 
 
-# Yuzu
-  
-## OpenGL
-  CTR Nitro Fueled [484]
+# Yuzu OpenGL
+  ### CTR Nitro Fueled [484]
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL253eGFxczFpcWozaXRmcS9DVFJORm9wZW5nbDQ4NC43ei9maWxl`
   ### Fire Emblem Three Houses [247]
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2V4NDltZnE3c2gzYzVody9mZTNob3BlbmdsMjQ3Ljd6L2ZpbGU=`
@@ -29,7 +27,7 @@
   
   * * *
   
-## Vulkan
+# Yuzu Vulkan
   ### Animal Crossing: New Horizons [4119]
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3FzajlydzgwYWM5OXBuYS9BQ05IdnVsa2FuNDExOS43ei9maWxl`
   ### Fire Emblem Three Houses [515]
@@ -53,7 +51,8 @@
   ### Xenoblade Chronicles 2 [10134]
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3l5Zm9hbTBiOWEyOTkyNC9YQjJ2dWxrYW4xMDEzNC43ei9maWxl`
 
-
+  * * *
+  
 # Ryujinx
 
  ### Astral Chain [1491]
