@@ -56,3 +56,8 @@
 
 # Ryujinx
 
+ ### Astral Chain [1491]
+ `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3V5dWp6cjNkbXhhd2Rsbi9SWVVhc3RyYWxjaGFpbjE0OTEuN3ovZmlsZQ==`
+ ### Dragon Ball FighterZ [319]
+ `aHR0cDovL3d3dy5tZWRpYWZpcmUuY29tL2ZpbGUvY3JhamhsYnRzYjg3em5xL0RyYWdvbitCYWxsK0ZpZ2h0ZXJaK1szMTldLnJhci9maWxl`
+
