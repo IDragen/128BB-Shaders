@@ -12,7 +12,7 @@
 
 # Yuzu
 
-## Pre-Hades
+## Pre-Hades OpenGL
   
   * * *
   
