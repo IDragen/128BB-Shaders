@@ -12,11 +12,11 @@
 
 # Yuzu
 
-### Pre-Hades (OpenGL only):
+## Pre-Hades (OpenGL only):
   
   * * *
   
-### Post-Hades OpenGL
+## Post-Hades OpenGL
   ### CTR Nitro Fueled [484]:
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL253eGFxczFpcWozaXRmcS9DVFJORm9wZW5nbDQ4NC43ei9maWxl`
   ### Fire Emblem Three Houses [247]:
@@ -34,7 +34,7 @@
   
   * * *
   
-### Post-Hades Vulkan:
+## Post-Hades Vulkan:
 Testing again: `R2V0IGEgbG9hZCBvZiB0aGlzIHRlc3Q=`
 
 # Ryujinx
