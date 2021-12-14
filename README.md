@@ -12,7 +12,8 @@
 # Yuzu
 
 ### Pre-Hades (OpenGL only):
-
+  Example:`VGVzdA==`
+  
 ### Post-Hades OpenGL:
 
 ### Post-Hades Vulkan:
