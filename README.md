@@ -3,7 +3,8 @@
 
 - [Yuzu](#Yuzu)
   + [Pre-Hades](#Pre-Hades-OpenGL-only)
-  + [Post-Hades](#Post-Hades)
+  + [Post-Hades (OpenGL)](#Post-Hades-OpenGL)
+  + [Post-Hades (Vulkan)](#Post-Hades-Vulkan)
 
 
 - [Ryujinx](#Ryujinx)
