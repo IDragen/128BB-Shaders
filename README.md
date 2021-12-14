@@ -1,4 +1,4 @@
-# 128BB-Shaders
+# 128-Bit Bay Shaders
 ### Table of Contents
 
 - [Yuzu - OpenGL](#yuzu---opengl)
