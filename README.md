@@ -1,7 +1,7 @@
 # 128BB-Shaders
 ### Table of Contents
 
-- [Yuzu (OpenGL)](#yuzu--opengl-)
+- [Yuzu - OpenGL](#yuzu---opengl)
     + [CTR Nitro Fueled](#ctr-nitro-fueled)
     + [Fire Emblem Three Houses](#fire-emblem-three-houses)
     + [Luigi Mansion 3](#luigi-mansion-3)
@@ -11,7 +11,7 @@
     + [Super Smash Bros. Ultimate](#super-smash-bros-ultimate)
 
 
-# Yuzu (OpenGL)
+# Yuzu - OpenGL
   ### CTR Nitro Fueled
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL253eGFxczFpcWozaXRmcS9DVFJORm9wZW5nbDQ4NC43ei9maWxl`
   * Count: 484
@@ -43,7 +43,7 @@
   
   * * *
   
-# Yuzu (Vulkan)
+# Yuzu Vulkan
   ### Animal Crossing: New Horizons [4119]
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3FzajlydzgwYWM5OXBuYS9BQ05IdnVsa2FuNDExOS43ei9maWxl`
   ### Fire Emblem Three Houses [515]
