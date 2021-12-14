@@ -1,4 +1,5 @@
 # 128-Bit Bay Shaders
+## *The table of contents does not work when certain characters are used, so if you see a typo in a game's title, that is why.*
 ### Table of Contents
 
 - [Yuzu - OpenGL](#yuzu---opengl)
