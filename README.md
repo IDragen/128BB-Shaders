@@ -2,7 +2,7 @@
 ### Table of Contents
 
 - [Yuzu](#Yuzu)
-  + [Pre-Hades](#Pre-Hades-OpenGL-only)
+  + [Pre-Hades](#Pre-Hades-OpenGL)
   + [Post-Hades (OpenGL)](#Post-Hades-OpenGL)
   + [Post-Hades (Vulkan)](#Post-Hades-Vulkan)
 
@@ -12,7 +12,7 @@
 
 # Yuzu
 
-## Pre-Hades (OpenGL only):
+## Pre-Hades OpenGL
   
   * * *
   
@@ -34,7 +34,7 @@
   
   * * *
   
-## Post-Hades Vulkan:
+## Post-Hades Vulkan
 Testing again: `R2V0IGEgbG9hZCBvZiB0aGlzIHRlc3Q=`
 
 # Ryujinx
