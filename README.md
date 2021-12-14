@@ -9,7 +9,18 @@
     + [Metroid Dread](#metroid-dread)
     + [Super Mario Odyssey](#super-mario-odyssey)
     + [Super Smash Bros. Ultimate](#super-smash-bros-ultimate)
-
+- [Yuzu - Vulkan](#yuzu---vulkan)
+    + [Animal Crossing: New Horizons](#animal-crossing--new-horizons)
+    + [Fire Emblem Three Houses](#fire-emblem-three-houses-1)
+    + [Hyrule Warriors: Age of Calamity](#hyrule-warriors--age-of-calamity)
+    + [Mario Kart 8 Deluxe](#mario-kart-8-deluxe)
+    + [Metroid Dread](#metroid-dread-1)
+    + [Pokemon Sword and Shield](#pokemon-sword-and-shield)
+    + [Super Mario 3D World + Bowser's Fury](#super-mario-3d-world---bowser-s-fury)
+    + [Super Mario Odyssey](#super-mario-odyssey-1)
+    + [Super Smash Bros. Ultimate](#super-smash-bros-ultimate-1)
+    + [The Legend of Zelda: Link Awakening](#the-legend-of-zelda--link-awakening)
+    + [Xenoblade Chronicles 2](#xenoblade-chronicles-2)
 
 # Yuzu - OpenGL
   ### CTR Nitro Fueled
@@ -43,29 +54,51 @@
   
   * * *
   
-# Yuzu Vulkan
-  ### Animal Crossing: New Horizons [4119]
+# Yuzu - Vulkan
+  ### Animal Crossing: New Horizons
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3FzajlydzgwYWM5OXBuYS9BQ05IdnVsa2FuNDExOS43ei9maWxl`
-  ### Fire Emblem Three Houses [515]
+  * Count: 4119
+  * Contributor: MeshHyper
+  ### Fire Emblem Three Houses
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL29nN2Z0YjJ6enJodzlmMS9GRTNIdnVsa2FuNTE1Ljd6L2ZpbGU=`
-  ### Hyrule Warriors: Age of Calamity [2233]
+  * Count: 515
+  * Contributor: Iashua	
+  ### Hyrule Warriors: Age of Calamity
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3BiMTJvZjBkeHJpNzRreC9Bb0NWdWxrYW5DYWNoZTIyMzMuN3ovZmlsZQ==`
-  ### Mario Kart 8 Deluxe [4325]
+  * Count: 2233
+  * Contributor: Japanese Orgy	
+  ### Mario Kart 8 Deluxe
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3o5ZmNsM2czZGk3bTF0di9tazhkdnVsa2FuNDMyNS43ei9maWxl`
-  ### Metroid Dread [490]
+  * Count: 4325
+  * Contributor: MacCaulay
+  ### Metroid Dread
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2VxYmswZ2t6YXhpNmYxbC9EUkVBRHZ1bGthbjQ5MC43ei9maWxl`
-  ### Pokemon Sword and Shield [10950]
+  * Count: 490
+  * Contributor: Number1RatedSalesman1997	
+  ### Pokemon Sword and Shield
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzJhZzRjN3Z2ajZxMWVqeC9QS01OU1d2dWxrYW4xMDk1MC43ei9maWxl`
-  ### Super Mario 3D World + Bowser's Fury [4110]
+  * Count: 10950
+  * Contributor: MeshHyper	
+  ### Super Mario 3D World + Bowser's Fury
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzJnZmxodDNhcnB6a3p1ZC9TTTNEVyUyNTJCQkZ5dXp1X3Z1bGthbjQxMTAuN3ovZmlsZQ==`
-  ### Super Mario Odyssey [9348]
+  * Count: 4110
+  * Contributor: Xigbar	
+  ### Super Mario Odyssey
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2NvaXA1eHBzeDdraXFzMi9zbW92dWxrYW45MzQ4Ljd6L2ZpbGU=`
-  ### Super Smash Bros. Ultimate [19328]
+  * Count: 9348
+  * Contributor: FinaleRoyale
+  ### Super Smash Bros. Ultimate
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3puMzY4encwdW9rZnpxNC9TTUFTSHZ1bGthbjE5MzI4Ljd6L2ZpbGU=`
-  ### The Legend of Zelda: Link's Awakening [2308]
+  * Count: 19328
+  * Contributor: ZeroRush91	
+  ### The Legend of Zelda: Link Awakening
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3JiY3MzMG5uemcwZjhjcC9Mb1pMQXZ1bGthbjIzMDguN3ovZmlsZQ==`
-  ### Xenoblade Chronicles 2 [10134]
+  * Count: 2308
+  * Contributor: Haleem22	
+  ### Xenoblade Chronicles 2
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3l5Zm9hbTBiOWEyOTkyNC9YQjJ2dWxrYW4xMDEzNC43ei9maWxl`
+  * Count: 10134
+  * Contributor: Ice
 
   * * *
   
