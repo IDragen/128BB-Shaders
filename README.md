@@ -13,11 +13,13 @@
 # Yuzu
 
 ### Pre-Hades (OpenGL only):
-  Example:`VGVzdA==`
-  
+  Example: `VGVzdA==`
+
 ### Post-Hades OpenGL:
+Another example: `QW5vdGhlciB0ZXN0`
 
 ### Post-Hades Vulkan:
-
+Testing again: `R2V0IGEgbG9hZCBvZiB0aGlzIHRlc3Q=`
 
 # Ryujinx
+Final test: `VGVzdGluZyBidXQgYWN0dWFsbHkgZ29vZCB0aGlzIHRpbWU=`
