@@ -79,7 +79,7 @@
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzJhZzRjN3Z2ajZxMWVqeC9QS01OU1d2dWxrYW4xMDk1MC43ei9maWxl`
   * Count: 10950
   * Contributor: MeshHyper	
-  ### Super Mario 3D World & Bowser's Fury
+  ### Super Mario 3D World and Bowser's Fury
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzJnZmxodDNhcnB6a3p1ZC9TTTNEVyUyNTJCQkZ5dXp1X3Z1bGthbjQxMTAuN3ovZmlsZQ==`
   * Count: 4110
   * Contributor: Xigbar	
