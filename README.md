@@ -2,9 +2,9 @@
 ### Table of Contents
 
 - [Yuzu](#Yuzu)
-  + [Pre-Hades](#Pre-Hades-OpenGL)
-  + [Post-Hades (OpenGL)](#Post-Hades-OpenGL)
-  + [Post-Hades (Vulkan)](#Post-Hades-Vulkan)
+  + [Pre-Hades OpenGL](#Pre-Hades-OpenGL)
+  + [Post-Hades OpenGL](#Post-Hades-OpenGL)
+  + [Post-Hades Vulkan](#Post-Hades-Vulkan)
 
 
 - [Ryujinx](#Ryujinx)
