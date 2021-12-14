@@ -6,8 +6,6 @@
   + [Post-Hades](#Post-Hades)
 
 
-
-
 - [Ryujinx](#Ryujinx)
 
 
@@ -15,10 +13,10 @@
 
 ### Pre-Hades:
 
-
 ### Post-Hades:
-
 ### OpenGL
+
 ### Vulkan
+
 
 # Ryujinx
