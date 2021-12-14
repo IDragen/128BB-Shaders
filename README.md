@@ -7,8 +7,6 @@
 
 # Yuzu
 
-* * *
-
 ### Pre-Hades
 
 ### Post-Hades
