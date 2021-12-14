@@ -4,7 +4,7 @@
 - [Yuzu OpenGL](#yuzu-opengl)
     + [CTR Nitro Fueled](#ctr-nitro-fueled)
     + [Fire Emblem Three Houses](#fire-emblem-three-houses)
-    + [Luigi's Mansion 3](#luigi-mansion-3)
+    + [Luigi Mansion 3](#luigi-mansion-3)
     + [Mario Tennis Aces](#mario-tennis-aces)
     + [Metroid Dread](#metroid-dread)
     + [Super Mario Odyssey](#super-mario-odyssey)
