@@ -55,7 +55,7 @@
   * * *
   
 # Yuzu - Vulkan
-  ### Animal Crossing: New Horizons
+  ### Animal Crossing New Horizons
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3FzajlydzgwYWM5OXBuYS9BQ05IdnVsa2FuNDExOS43ei9maWxl`
   * Count: 4119
   * Contributor: MeshHyper
@@ -63,7 +63,7 @@
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL29nN2Z0YjJ6enJodzlmMS9GRTNIdnVsa2FuNTE1Ljd6L2ZpbGU=`
   * Count: 515
   * Contributor: Iashua	
-  ### Hyrule Warriors: Age of Calamity
+  ### Hyrule Warriors - Age of Calamity
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3BiMTJvZjBkeHJpNzRreC9Bb0NWdWxrYW5DYWNoZTIyMzMuN3ovZmlsZQ==`
   * Count: 2233
   * Contributor: Japanese Orgy	
@@ -79,7 +79,7 @@
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzJhZzRjN3Z2ajZxMWVqeC9QS01OU1d2dWxrYW4xMDk1MC43ei9maWxl`
   * Count: 10950
   * Contributor: MeshHyper	
-  ### Super Mario 3D World + Bowser's Fury
+  ### Super Mario 3D World & Bowser's Fury
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzJnZmxodDNhcnB6a3p1ZC9TTTNEVyUyNTJCQkZ5dXp1X3Z1bGthbjQxMTAuN3ovZmlsZQ==`
   * Count: 4110
   * Contributor: Xigbar	
@@ -91,7 +91,7 @@
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3puMzY4encwdW9rZnpxNC9TTUFTSHZ1bGthbjE5MzI4Ljd6L2ZpbGU=`
   * Count: 19328
   * Contributor: ZeroRush91	
-  ### The Legend of Zelda: Link Awakening
+  ### The Legend of Zelda - Link Awakening
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3JiY3MzMG5uemcwZjhjcC9Mb1pMQXZ1bGthbjIzMDguN3ovZmlsZQ==`
   * Count: 2308
   * Contributor: Haleem22	
