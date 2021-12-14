@@ -2,7 +2,7 @@
 ### Table of Contents
 
 - [Yuzu OpenGL](#yuzu-opengl)
-    + [CTR Nitro Fueled [484]](#ctr-nitro-fueled--484-)
+    + [CTR Nitro Fueled](#ctr-nitro-fueled)
     + [Fire Emblem Three Houses [247]](#fire-emblem-three-houses--247-)
     + [Luigi's Mansion 3 [1015]](#luigi-s-mansion-3--1015-)
     + [Mario Tennis Aces [2313]](#mario-tennis-aces--2313-)
@@ -27,7 +27,7 @@
 
 
 # Yuzu OpenGL
-  ### CTR Nitro Fueled [484]
+  ### CTR Nitro Fueled
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL253eGFxczFpcWozaXRmcS9DVFJORm9wZW5nbDQ4NC43ei9maWxl`
   ### Fire Emblem Three Houses [247]
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2V4NDltZnE3c2gzYzVody9mZTNob3BlbmdsMjQ3Ljd6L2ZpbGU=`
