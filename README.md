@@ -13,7 +13,7 @@
 # Yuzu
 
 ### Pre-Hades (OpenGL only):
-  Animal crossing: `VGVzdA==` Mirror: `hi`
+  CTR Nitro Fueled: `https://0bin.net/paste/yEmCJhXG#PTqto2icbaWF9TbpihKHU5Qj-r7ibxvZOBD9kbbvFyT` Mirror: `https://codebeautify.org/base64-decode?input=aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL253eGFxczFpcWozaXRmcS9DVFJORm9wZW5nbDQ4NC43ei9maWxl`
 
 ### Post-Hades OpenGL:
 Another example: `QW5vdGhlciB0ZXN0`
