@@ -16,11 +16,13 @@
     + [Mario Kart 8 Deluxe](#mario-kart-8-deluxe)
     + [Metroid Dread](#metroid-dread-1)
     + [Pokemon Sword and Shield](#pokemon-sword-and-shield)
-    + [Super Mario 3D World & Bowser's Fury](#super-mario-3d-world---bowser-s-fury)
+    + [Super Mario 3D World and Bowser's Fury](#super-mario-3d-world-and-bowser-s-fury)
     + [Super Mario Odyssey](#super-mario-odyssey-1)
     + [Super Smash Bros. Ultimate](#super-smash-bros-ultimate-1)
     + [The Legend of Zelda - Link Awakening](#the-legend-of-zelda---link-awakening)
     + [Xenoblade Chronicles 2](#xenoblade-chronicles-2)
+
+* * *
 
 # Yuzu - OpenGL
   ### CTR Nitro Fueled
