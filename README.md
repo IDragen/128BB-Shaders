@@ -2,7 +2,7 @@
 ### Table of Contents
 
 - [Yuzu](#Yuzu)
-  + [Pre-Hades](#Pre-Hades)
+  + [Pre-Hades](#Pre-Hades (OpenGL only))
   + [Post-Hades](#Post-Hades)
 
 
