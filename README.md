@@ -29,7 +29,7 @@
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2hoNm9ncmNzaDJqZXg3ai9TTU9vcGVuZ2w2NDI1Ljd6L2ZpbGU=`
   ### Smash Ultimate:
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3p0Z28xYmZ1Zm0yb2didy9zbWFzaG9wZW5nbDExODAzLjd6L2ZpbGU=`
-  
+  * * *
 ### Post-Hades Vulkan:
 Testing again: `R2V0IGEgbG9hZCBvZiB0aGlzIHRlc3Q=`
 
