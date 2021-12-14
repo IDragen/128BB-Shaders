@@ -4,7 +4,7 @@
 - [Yuzu OpenGL](#yuzu-opengl)
     + [CTR Nitro Fueled](#ctr-nitro-fueled)
     + [Fire Emblem Three Houses](#fire-emblem-three-houses)
-    + [Luigi's Mansion 3](#luigi-s-mansion-3)
+    + [Luigi's Mansion 3](#luigi-mansion-3)
     + [Mario Tennis Aces](#mario-tennis-aces)
     + [Metroid Dread](#metroid-dread)
     + [Super Mario Odyssey](#super-mario-odyssey)
@@ -19,7 +19,7 @@
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2V4NDltZnE3c2gzYzVody9mZTNob3BlbmdsMjQ3Ljd6L2ZpbGU=`
   * Count: 247
   * Contributor: Nokko
-  ### Luigi's Mansion 3
+  ### Luigi Mansion 3
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2FrZXltbDNvNjNtb3YxZi9MTTNvcGVuZ2xzaGFkZXIucmFyL2ZpbGU=`
   * Count: 1015
   * Haleem22
