@@ -1,7 +1,7 @@
 # 128BB-Shaders
 ### Table of Contents
 
-- [Yuzu] (#yuzu)
+- [Yuzu] (#Yuzu)
 
 
 
