@@ -3,50 +3,42 @@
 
 - [Yuzu OpenGL](#yuzu-opengl)
     + [CTR Nitro Fueled](#ctr-nitro-fueled)
-    + [Fire Emblem Three Houses [247]](#fire-emblem-three-houses--247-)
-    + [Luigi's Mansion 3 [1015]](#luigi-s-mansion-3--1015-)
-    + [Mario Tennis Aces [2313]](#mario-tennis-aces--2313-)
-    + [Metroid Dread [181]](#metroid-dread--181-)
-    + [Super Mario Odyssey [6425]](#super-mario-odyssey--6425-)
-    + [Smash Ultimate [11803]](#smash-ultimate--11803-)
-- [Yuzu Vulkan](#yuzu-vulkan)
-    + [Animal Crossing: New Horizons [4119]](#animal-crossing--new-horizons--4119-)
-    + [Fire Emblem Three Houses [515]](#fire-emblem-three-houses--515-)
-    + [Hyrule Warriors: Age of Calamity [2233]](#hyrule-warriors--age-of-calamity--2233-)
-    + [Mario Kart 8 Deluxe [4325]](#mario-kart-8-deluxe--4325-)
-    + [Metroid Dread [490]](#metroid-dread--490-)
-    + [Pokemon Sword and Shield [10950]](#pokemon-sword-and-shield--10950-)
-    + [Super Mario 3D World + Bowser's Fury [4110]](#super-mario-3d-world---bowser-s-fury--4110-)
-    + [Super Mario Odyssey [9348]](#super-mario-odyssey--9348-)
-    + [Super Smash Bros. Ultimate [19328]](#super-smash-bros-ultimate--19328-)
-    + [The Legend of Zelda: Link's Awakening [2308]](#the-legend-of-zelda--link-s-awakening--2308-)
-    + [Xenoblade Chronicles 2 [10134]](#xenoblade-chronicles-2--10134-)
-- [Ryujinx](#ryujinx)
-    + [Astral Chain [1491]](#astral-chain--1491-)
-    + [Dragon Ball FighterZ [319]](#dragon-ball-fighterz--319-)
-
+    + [Fire Emblem Three Houses](#fire-emblem-three-houses)
+    + [Luigi's Mansion 3](#luigi-s-mansion-3)
+    + [Mario Tennis Aces](#mario-tennis-aces)
+    + [Metroid Dread](#metroid-dread)
+    + [Super Mario Odyssey](#super-mario-odyssey)
+    + [Super Smash Bros. Ultimate](#super-smash-bros-ultimate)
 
 # Yuzu OpenGL
   ### CTR Nitro Fueled
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL253eGFxczFpcWozaXRmcS9DVFJORm9wZW5nbDQ4NC43ei9maWxl`
   * Count: 484
   * Contributor: Stefan
-  ### Fire Emblem Three Houses [247]
+  ### Fire Emblem Three Houses
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2V4NDltZnE3c2gzYzVody9mZTNob3BlbmdsMjQ3Ljd6L2ZpbGU=`
   * Count: 247
   * Contributor: Nokko
-  ### Luigi's Mansion 3 [1015]
+  ### Luigi's Mansion 3
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2FrZXltbDNvNjNtb3YxZi9MTTNvcGVuZ2xzaGFkZXIucmFyL2ZpbGU=`
   * Count: 1015
   * Haleem22
-  ### Mario Tennis Aces [2313]
+  ### Mario Tennis Aces
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2ltcTVoOW1rYTRpcTZ5di9NYXJpb1Rlbm5pczIzMTNfT3BlbkdMLjd6L2ZpbGU=`
-  ### Metroid Dread [181]
+  * Count: 2313
+  * Contributor: Smiglo
+  ### Metroid Dread
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL25rcHRpeGh0aGFnODRtby9EUkVBRG9wZW5nbDE4MS43ei9maWxl`
-  ### Super Mario Odyssey [6425]
+  * Count: 181
+  * Contributor: Number1RatedSalesman1997
+  ### Super Mario Odyssey
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2hoNm9ncmNzaDJqZXg3ai9TTU9vcGVuZ2w2NDI1Ljd6L2ZpbGU=`
-  ### Smash Ultimate [11803]
+  * Count: 6425
+  * Contributor: VPG
+  ### Super Smash Bros. Ultimate
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3p0Z28xYmZ1Zm0yb2didy9zbWFzaG9wZW5nbDExODAzLjd6L2ZpbGU=`
+  * Count: 11803
+  * Contributor: Steeb
   
   * * *
   
