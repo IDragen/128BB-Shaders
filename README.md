@@ -15,13 +15,20 @@
 ### Pre-Hades (OpenGL only):
 
 ### Post-Hades OpenGL:
-  CTR Nitro Fueled [484]: `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL253eGFxczFpcWozaXRmcS9DVFJORm9wZW5nbDQ4NC43ei9maWxl`
-  Fire Emblem Three Houses: `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2V4NDltZnE3c2gzYzVody9mZTNob3BlbmdsMjQ3Ljd6L2ZpbGU=`
-  Luigi's Mansion 3: `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2FrZXltbDNvNjNtb3YxZi9MTTNvcGVuZ2xzaGFkZXIucmFyL2ZpbGU=`
-  Mario Tennis Aces: `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2ltcTVoOW1rYTRpcTZ5di9NYXJpb1Rlbm5pczIzMTNfT3BlbkdMLjd6L2ZpbGU=`
-  Metroid Dread: `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL25rcHRpeGh0aGFnODRtby9EUkVBRG9wZW5nbDE4MS43ei9maWxl`
-  Super Mario Odyssey: `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2hoNm9ncmNzaDJqZXg3ai9TTU9vcGVuZ2w2NDI1Ljd6L2ZpbGU=`
-  Smash Ultimate: `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3p0Z28xYmZ1Zm0yb2didy9zbWFzaG9wZW5nbDExODAzLjd6L2ZpbGU=`
+  ### CTR Nitro Fueled [484]:
+  `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL253eGFxczFpcWozaXRmcS9DVFJORm9wZW5nbDQ4NC43ei9maWxl`
+  ### Fire Emblem Three Houses:
+  `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2V4NDltZnE3c2gzYzVody9mZTNob3BlbmdsMjQ3Ljd6L2ZpbGU=`
+  ### Luigi's Mansion 3:
+  `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2FrZXltbDNvNjNtb3YxZi9MTTNvcGVuZ2xzaGFkZXIucmFyL2ZpbGU=`
+  ### Mario Tennis Aces:
+  `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2ltcTVoOW1rYTRpcTZ5di9NYXJpb1Rlbm5pczIzMTNfT3BlbkdMLjd6L2ZpbGU=`
+  ### Metroid Dread:
+  `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL25rcHRpeGh0aGFnODRtby9EUkVBRG9wZW5nbDE4MS43ei9maWxl`
+  ### Super Mario Odyssey:
+  `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2hoNm9ncmNzaDJqZXg3ai9TTU9vcGVuZ2w2NDI1Ljd6L2ZpbGU=`
+  ### Smash Ultimate:
+  `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3p0Z28xYmZ1Zm0yb2didy9zbWFzaG9wZW5nbDExODAzLjd6L2ZpbGU=`
   
 ### Post-Hades Vulkan:
 Testing again: `R2V0IGEgbG9hZCBvZiB0aGlzIHRlc3Q=`
