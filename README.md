@@ -13,14 +13,11 @@
 # Yuzu
 
 ### Pre-Hades (OpenGL only):
-  Beans: `a`
   
   * * *
   
 ### Post-Hades OpenGL
   ### CTR Nitro Fueled
-  Count: 484
-  Contributor: Stefan
   Link: `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL253eGFxczFpcWozaXRmcS9DVFJORm9wZW5nbDQ4NC43ei9maWxl`
   ### Fire Emblem Three Houses [247]:
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2V4NDltZnE3c2gzYzVody9mZTNob3BlbmdsMjQ3Ljd6L2ZpbGU=`
