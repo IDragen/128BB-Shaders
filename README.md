@@ -13,7 +13,7 @@
 # Yuzu
 
 ### Pre-Hades (OpenGL only):
-  Example: `VGVzdA==`
+  Animal crossing: `VGVzdA==` Mirror: `hi`
 
 ### Post-Hades OpenGL:
 Another example: `QW5vdGhlciB0ZXN0`
