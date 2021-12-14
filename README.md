@@ -3,6 +3,7 @@
 
 - [Yuzu](#Yuzu)
 
+- [Ryujinx](#Ryujinx)
 
 
 # Yuzu
