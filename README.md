@@ -11,12 +11,11 @@
 
 # Yuzu
 
-### Pre-Hades:
+### Pre-Hades (OpenGL only):
 
-### Post-Hades:
-### OpenGL
+### Post-Hades OpenGL:
 
-### Vulkan
+### Post-Hades Vulkan:
 
 
 # Ryujinx
