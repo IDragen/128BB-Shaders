@@ -17,6 +17,7 @@
     + [Hyrule Warriors - Age of Calamity](#hyrule-warriors---age-of-calamity)
     + [Mario Kart 8 Deluxe](#mario-kart-8-deluxe)
     + [Metroid Dread](#metroid-dread-1)
+    + [Brilliant Diamon and Shining Pearl](#brilliant-diamon-and-shining-pearl)
     + [Pokemon Sword and Shield](#pokemon-sword-and-shield)
     + [Super Mario 3D World and Bowser's Fury](#super-mario-3d-world-and-bowser-s-fury)
     + [Super Mario Odyssey](#super-mario-odyssey-1)
@@ -75,7 +76,7 @@
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3FzajlydzgwYWM5OXBuYS9BQ05IdnVsa2FuNDExOS43ei9maWxl`
   * Count: 4119
   * Contributor: MeshHyper
-  ### Crash Team Racing Nitro Fueled
+  ### CTR Nitro Fueled
   `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xdjBIcEwxbnZpRDhURjNOeHVzYVZ0aXRKTnhfZk51U0gvdmlldz91c3A9c2hhcmluZw==`
   * Count: 980
   * Contributor: N/A
