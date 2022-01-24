@@ -3,7 +3,7 @@
 ### Table of Contents
 
 - [Yuzu - OpenGL](#yuzu---opengl)
-    + [CTR Nitro Fueled](#ctr-nitro-fueled)
+    + [Crash Team Racing Nitro Fueled](#crash-team-racing-nitro-fueled)
     + [Fire Emblem Three Houses](#fire-emblem-three-houses)
     + [Luigi Mansion 3](#luigi-mansion-3)
     + [Mario Tennis Aces](#mario-tennis-aces)
@@ -12,6 +12,7 @@
     + [Super Smash Bros. Ultimate](#super-smash-bros-ultimate)
 - [Yuzu - Vulkan](#yuzu---vulkan)
     + [Animal Crossing New Horizons](#animal-crossing-new-horizons)
+    + + [Crash Team Racing Nitro Fueled](#crash-team-racing-nitro-fueled)
     + [Fire Emblem Three Houses](#fire-emblem-three-houses-1)
     + [Hyrule Warriors - Age of Calamity](#hyrule-warriors---age-of-calamity)
     + [Mario Kart 8 Deluxe](#mario-kart-8-deluxe)
@@ -38,7 +39,7 @@
 * * *
 
 # Yuzu - OpenGL
-  ### CTR Nitro Fueled
+  ### Crash Team Racing Nitro Fueled
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL253eGFxczFpcWozaXRmcS9DVFJORm9wZW5nbDQ4NC43ei9maWxl`
   * Count: 484
   * Contributor: Stefan
@@ -74,6 +75,10 @@
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3FzajlydzgwYWM5OXBuYS9BQ05IdnVsa2FuNDExOS43ei9maWxl`
   * Count: 4119
   * Contributor: MeshHyper
+  ### Crash Team Racing Nitro Fueled
+  `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xdjBIcEwxbnZpRDhURjNOeHVzYVZ0aXRKTnhfZk51U0gvdmlldz91c3A9c2hhcmluZw==`
+  * Count: 980
+  * Contributor: N/A
   ### Fire Emblem Three Houses
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL29nN2Z0YjJ6enJodzlmMS9GRTNIdnVsa2FuNTE1Ljd6L2ZpbGU=`
   * Count: 515
@@ -83,13 +88,17 @@
   * Count: 2233
   * Contributor: Japanese Orgy	
   ### Mario Kart 8 Deluxe
-  `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3o5ZmNsM2czZGk3bTF0di9tazhkdnVsa2FuNDMyNS43ei9maWxl`
-  * Count: 4325
-  * Contributor: MacCaulay
+  `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xWUxmUHFkOVJYelBnb1lPN3Q4ZjdoUkt4WEZFUWpIMlUvdmlldz91c3A9c2hhcmluZw==`
+  * Count: 11199
+  * Contributor: N/A
   ### Metroid Dread
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2VxYmswZ2t6YXhpNmYxbC9EUkVBRHZ1bGthbjQ5MC43ei9maWxl`
   * Count: 490
   * Contributor: Number1RatedSalesman1997	
+  ### Brilliant Diamon and Shining Pearl
+  `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xM0k5c0o3NTJLZWdLUVhOU21oeXBhSHdFV0NjOE9yQTIvdmlldz91c3A9c2hhcmluZw==`
+  * Count: 4577
+  * Contributor: Waka
   ### Pokemon Sword and Shield
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzJhZzRjN3Z2ajZxMWVqeC9QS01OU1d2dWxrYW4xMDk1MC43ei9maWxl`
   * Count: 10950
