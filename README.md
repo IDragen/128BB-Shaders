@@ -12,7 +12,7 @@
     + [Super Smash Bros. Ultimate](#super-smash-bros-ultimate)
 - [Yuzu - Vulkan](#yuzu---vulkan)
     + [Animal Crossing New Horizons](#animal-crossing-new-horizons)
-    + + [Crash Team Racing Nitro Fueled](#crash-team-racing-nitro-fueled)
+    + [CTR Nitro Fueled](#ctr-nitro-fueled)
     + [Fire Emblem Three Houses](#fire-emblem-three-houses-1)
     + [Hyrule Warriors - Age of Calamity](#hyrule-warriors---age-of-calamity)
     + [Mario Kart 8 Deluxe](#mario-kart-8-deluxe)
