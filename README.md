@@ -109,7 +109,7 @@
   * Count: 4110
   * Contributor: Xigbar	
   ### Super Mario Odyssey
-  `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2NzZHhleTVqbmxuaXdrby92dWxrYW4uN3ovZmlsZQ==`
+  `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xeVRIQ29XYUFWUFhETWtTclE2cmVkVDRuMTRvWkoxV0Ivdmlldz91c3A9c2hhcmluZw==`
   * Count: 13132
   * Contributor: Vahvl
   ### Super Smash Bros. Ultimate
