@@ -73,9 +73,9 @@
   
 # Yuzu - Vulkan
   ### Animal Crossing New Horizons
-  `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3FzajlydzgwYWM5OXBuYS9BQ05IdnVsa2FuNDExOS43ei9maWxl`
+  `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xSEEtX0RBcjZJa0o2QkJrZkE5VjNBbU5SWFd6S3FTRlkvdmlldz91c3A9c2hhcmluZw==`
   * Count: 4119
-  * Contributor: MeshHyper
+  * Contributor: TheNine351
   ### CTR Nitro Fueled
   `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xdjBIcEwxbnZpRDhURjNOeHVzYVZ0aXRKTnhfZk51U0gvdmlldz91c3A9c2hhcmluZw==`
   * Count: 980
