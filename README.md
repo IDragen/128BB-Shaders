@@ -28,6 +28,7 @@
     + [Astral Chain](#astral-chain)
     + [Dragon Ball FighterZ](#dragon-ball-fighterz)
     + [Hyrule Warriors - Age of Calamity](#hyrule-warriors---age-of-calamity-1)
+    + [Kirby and the Forgotten Land](#kirby-and-the-forgotten-land)
     + [Mario Kart 8 Deluxe](#mario-kart-8-deluxe-1)
     + [Mario Party Superstars](#mario-party-superstars)
     + [Monster Hunter Generations Ultimate](#monster-hunter-generations-ultimate)
@@ -141,6 +142,10 @@
  `aHR0cDovL3d3dy5tZWRpYWZpcmUuY29tL2ZpbGUvZzc3Y2R5bGFyM2h6d2l4L0hXQW9DNzU1LnJhci9maWxl`
  * Count: 755
  * Contributor: ☣ Kryptuq ☣ RTX 3070 ☣	
+ ### Kirby and the Forgotten Land
+ `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xTXQta29zVHJzVGhoY1pyUk00YzJ3c2JhMUMtNUJUUHIvdmlldz91c3A9c2hhcmluZw==`
+ * Count: 7693
+ * Contributor: Bemonae
  ### Mario Kart 8 Deluxe
  `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzg0eXNndXRnaTNtajRray9NUFNSeXVPcGVuR0wxMzA0LnppcC9maWxl`
  * Count: 3853
