@@ -15,6 +15,7 @@
     + [CTR Nitro Fueled](#ctr-nitro-fueled)
     + [Fire Emblem Three Houses](#fire-emblem-three-houses-1)
     + [Hyrule Warriors - Age of Calamity](#hyrule-warriors---age-of-calamity)
+    + [Kirby and the Forgotten Land](#kirby-and-the-forgotten-land)
     + [Mario Kart 8 Deluxe](#mario-kart-8-deluxe)
     + [Metroid Dread](#metroid-dread-1)
     + [Brilliant Diamon and Shining Pearl](#brilliant-diamon-and-shining-pearl)
@@ -89,6 +90,10 @@
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3BiMTJvZjBkeHJpNzRreC9Bb0NWdWxrYW5DYWNoZTIyMzMuN3ovZmlsZQ==`
   * Count: 2233
   * Contributor: Japanese Orgy	
+  ### Kirby and the Forgotten Land
+  `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xWFhXVS1oSmhGbHROTWtUQ0NSWEtrSkFyV2ZYejVEQU8vdmlldz91c3A9c2hhcmluZw==`
+  * Count: 21533
+  * Contributor: Larita
   ### Mario Kart 8 Deluxe
   `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xWUxmUHFkOVJYelBnb1lPN3Q4ZjdoUkt4WEZFUWpIMlUvdmlldz91c3A9c2hhcmluZw==`
   * Count: 11199
