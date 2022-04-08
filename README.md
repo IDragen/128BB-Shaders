@@ -29,7 +29,7 @@
     + [Astral Chain](#astral-chain)
     + [Dragon Ball FighterZ](#dragon-ball-fighterz)
     + [Hyrule Warriors - Age of Calamity](#hyrule-warriors---age-of-calamity-1)
-    + [Kirby and the Forgotten Land](#kirby-and-the-forgotten-land)
+    + [Kirby and the Forgotten Land](#kirby-and-the-forgotten-land-1)
     + [Mario Kart 8 Deluxe](#mario-kart-8-deluxe-1)
     + [Mario Party Superstars](#mario-party-superstars)
     + [Monster Hunter Generations Ultimate](#monster-hunter-generations-ultimate)
