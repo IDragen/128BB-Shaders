@@ -18,7 +18,7 @@
     + [Kirby and the Forgotten Land](#kirby-and-the-forgotten-land)
     + [Mario Kart 8 Deluxe](#mario-kart-8-deluxe)
     + [Metroid Dread](#metroid-dread-1)
-    + [Brilliant Diamon and Shining Pearl](#brilliant-diamon-and-shining-pearl)
+    + [Pokemon Brilliant Diamon and Shining Pearl](#pokemon-brilliant-diamon-and-shining-pearl)
     + [Pokemon Sword and Shield](#pokemon-sword-and-shield)
     + [Super Mario 3D World and Bowser's Fury](#super-mario-3d-world-and-bowser-s-fury)
     + [Super Mario Odyssey](#super-mario-odyssey-1)
@@ -102,10 +102,14 @@
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2VxYmswZ2t6YXhpNmYxbC9EUkVBRHZ1bGthbjQ5MC43ei9maWxl`
   * Count: 490
   * Contributor: Number1RatedSalesman1997	
-  ### Brilliant Diamon and Shining Pearl
+  ### Pokemon Brilliant Diamon and Shining Pearl
   `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xM0k5c0o3NTJLZWdLUVhOU21oeXBhSHdFV0NjOE9yQTIvdmlldz91c3A9c2hhcmluZw==`
   * Count: 4577
   * Contributor: Waka
+  ### Pokemon Legends: Arceus
+  `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xeHpPS012NlJFZTNmaGpUaXR3VUlMTEhudVdhaEJJUVovdmlldz91c3A9c2hhcmluZw==`
+  * Count: 14463
+  * Contributor: KaustubhS
   ### Pokemon Sword and Shield
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzJhZzRjN3Z2ajZxMWVqeC9QS01OU1d2dWxrYW4xMDk1MC43ei9maWxl`
   * Count: 10950
