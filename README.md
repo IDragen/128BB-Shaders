@@ -5,6 +5,7 @@
 - [Yuzu - OpenGL](#yuzu---opengl)
     + [Crash Team Racing Nitro Fueled](#crash-team-racing-nitro-fueled)
     + [Fire Emblem Three Houses](#fire-emblem-three-houses)
+    + [Kirby and the Forgotten Land](#kirby-and-the-forgotten-land)
     + [Luigi Mansion 3](#luigi-mansion-3)
     + [Mario Tennis Aces](#mario-tennis-aces)
     + [Metroid Dread](#metroid-dread)
@@ -50,6 +51,10 @@
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2V4NDltZnE3c2gzYzVody9mZTNob3BlbmdsMjQ3Ljd6L2ZpbGU=`
   * Count: 247
   * Contributor: Nokko
+  ### Kirby and the Forgotten Land
+  `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xM2twcXVIV2dWMXVrSkFha1VUM1ZRNnNIY19GeHFaak0vdmlldz91c3A9c2hhcmluZw==`
+  * Count: 7670
+  * Contributor: Shade Meadows
   ### Luigi Mansion 3
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2FrZXltbDNvNjNtb3YxZi9MTTNvcGVuZ2xzaGFkZXIucmFyL2ZpbGU=`
   * Count: 1015
