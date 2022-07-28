@@ -11,6 +11,7 @@
     + [Metroid Dread](#metroid-dread)
     + [Super Mario Odyssey](#super-mario-odyssey)
     + [Super Smash Bros. Ultimate](#super-smash-bros-ultimate)
+    + [Xenoblade Chronicles 3](#xenoblade-chronicles-3)
 - [Yuzu - Vulkan](#yuzu---vulkan)
     + [Animal Crossing New Horizons](#animal-crossing-new-horizons)
     + [CTR Nitro Fueled](#ctr-nitro-fueled)
@@ -76,6 +77,10 @@
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3p0Z28xYmZ1Zm0yb2didy9zbWFzaG9wZW5nbDExODAzLjd6L2ZpbGU=`
   * Count: 11803
   * Contributor: Steeb
+  ### Xenoblade Chronicles 3
+  `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2hrdDgxMzQzMzRrdjltYS8lMjU1Qk9wZW5HTCUyNTVEX1hlbm9ibGFkZV9DaHJvbmljbGVzXzNfJTI1MjgxNTU2NiUyNTI5Ljd6L2ZpbGU=`
+  * Count: 15566
+  * Contributor: Captaine Jack Sparrow
   
   * * *
   
