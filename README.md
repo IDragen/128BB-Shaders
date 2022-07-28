@@ -26,7 +26,7 @@
     + [Super Smash Bros. Ultimate](#super-smash-bros-ultimate-1)
     + [The Legend of Zelda - Link Awakening](#the-legend-of-zelda---link-awakening)
     + [Xenoblade Chronicles 2](#xenoblade-chronicles-2)
-- [Ryujinx](#ryujinx)
+- [Ryujinx - OpenGL](#ryujinx---opengl)
     + [Astral Chain](#astral-chain)
     + [Dragon Ball FighterZ](#dragon-ball-fighterz)
     + [Hyrule Warriors - Age of Calamity](#hyrule-warriors---age-of-calamity-1)
@@ -39,6 +39,7 @@
     + [Super Mario Odyssey](#super-mario-odyssey-2)
     + [Super Mario Party](#super-mario-party)
     + [Super Smash Bros. Ultimate](#super-smash-bros-ultimate-2)
+- [Ryujinx - Vulkan](#ryujinx---vulkan)
 
 * * *
 
@@ -142,7 +143,7 @@
 
   * * *
   
-# Ryujinx
+# Ryujinx - OpenGL
 
  ### Astral Chain
  `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3V5dWp6cjNkbXhhd2Rsbi9SWVVhc3RyYWxjaGFpbjE0OTEuN3ovZmlsZQ==`
@@ -192,3 +193,6 @@
 `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzhrcTczZDNxazYzbDJiYS9TbWFzaFJ5dTIxMjk2Ljd6L2ZpbGU=`
 * Count: 21296
 * Contributor: Hmiza
+
+ * * *
+# Ryujinx - Vulkan
