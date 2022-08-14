@@ -28,6 +28,7 @@
     + [The Legend of Zelda - Link Awakening](#the-legend-of-zelda---link-awakening)
     + [Xenoblade Chronicles 2](#xenoblade-chronicles-2)
 - [Ryujinx](#ryujinx)
+    + [Xenoblade Chronicles 3](#xenoblade-chronicles-3)
 
 * * *
 
