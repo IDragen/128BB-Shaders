@@ -28,7 +28,6 @@
     + [The Legend of Zelda - Link Awakening](#the-legend-of-zelda---link-awakening)
     + [Xenoblade Chronicles 2](#xenoblade-chronicles-2)
 - [Ryujinx](#ryujinx)
-    + [Xenoblade Chronicles 3](#xenoblade-chronicles-3-1)
 
 * * *
 
@@ -137,7 +136,3 @@
   * * *
   
 # Ryujinx
-  ### Xenoblade Chronicles 3
-  `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xblFySW1RNFlmWnB3NFpxNVluN3cyLTFTSVY1MEVzQWkvdmlldz91c3A9c2hhcmluZw==`
-  * Count: 9533
-  * Contributor: Ryushon
