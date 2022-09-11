@@ -28,6 +28,7 @@
     + [The Legend of Zelda - Link Awakening](#the-legend-of-zelda---link-awakening)
     + [Xenoblade Chronicles 2](#xenoblade-chronicles-2)
 - [Ryujinx](#ryujinx)
+    + [Splatoon 3](#splatoon-3)
 
 * * *
 
@@ -136,3 +137,7 @@
   * * *
   
 # Ryujinx
+  ### Splatoon 3
+  `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzg0eDR6NWRwYXZuZXoxby9TcGxhdG9vbl8zXyUyNTI4Mjg1NyUyNTI5Ljd6L2ZpbGU=`
+  * Count: 2857
+  * Contributor: RMED24
