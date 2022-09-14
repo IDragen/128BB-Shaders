@@ -29,6 +29,7 @@
     + [Xenoblade Chronicles 2](#xenoblade-chronicles-2)
 - [Ryujinx](#ryujinx)
     + [Splatoon 3](#splatoon-3)
+    + [Xenoblade Chronicles 3](#xenoblade-chronicles-3)
 
 * * *
 
@@ -141,3 +142,7 @@
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzg0eDR6NWRwYXZuZXoxby9TcGxhdG9vbl8zXyUyNTI4Mjg1NyUyNTI5Ljd6L2ZpbGU=`
   * Count: 2857
   * Contributor: RMED24
+  ### Xenoblade Chronicles 3
+  `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2x0cDMwMGcwenAwb2t1cC9YZW5vYmxhZGVfQ2hyb25pY2xlc18zXyUyNTI4MTg4MjclMjUyOS43ei9maWxl`
+  * Count: 18827
+  * Contributor: NewType
