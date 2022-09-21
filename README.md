@@ -22,12 +22,14 @@
     + [Metroid Dread](#metroid-dread-1)
     + [Pokemon Brilliant Diamon and Shining Pearl](#pokemon-brilliant-diamon-and-shining-pearl)
     + [Pokemon Sword and Shield](#pokemon-sword-and-shield)
+    + [Splatoon 2](#splatoon-2)
     + [Super Mario 3D World and Bowser's Fury](#super-mario-3d-world-and-bowser-s-fury)
     + [Super Mario Odyssey](#super-mario-odyssey-1)
     + [Super Smash Bros. Ultimate](#super-smash-bros-ultimate-1)
     + [The Legend of Zelda - Link Awakening](#the-legend-of-zelda---link-awakening)
     + [Xenoblade Chronicles 2](#xenoblade-chronicles-2)
 - [Ryujinx](#ryujinx)
+    + [Splatoon 2](#splatoon-2-1)
     + [Splatoon 3](#splatoon-3)
     + [Xenoblade Chronicles 3](#xenoblade-chronicles-3)
 
@@ -114,6 +116,10 @@
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzJhZzRjN3Z2ajZxMWVqeC9QS01OU1d2dWxrYW4xMDk1MC43ei9maWxl`
   * Count: 10950
   * Contributor: MeshHyper	
+  ### Splatoon 2
+  `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xemMzeUdVeXJRQlEzR20xNjFPRU1iR2t0bFRIR1MwVWkvdmlldz91c3A9c2hhcmluZw==`
+  * Count: 5254
+  * Contributor: Lunarミ
   ### Super Mario 3D World and Bowser's Fury
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzJnZmxodDNhcnB6a3p1ZC9TTTNEVyUyNTJCQkZ5dXp1X3Z1bGthbjQxMTAuN3ovZmlsZQ==`
   * Count: 4110
@@ -138,10 +144,14 @@
   * * *
   
 # Ryujinx
+  ### Splatoon 2
+  `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xNFNxQWEteFJJZzU1VklyUDV1NkN1T0p2alBUM3BOajMvdmlldz91c3A9c2hhcmluZw==`
+  * Count: 4305
+  * Contributor: Lunarミ
   ### Splatoon 3
-  `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzg0eDR6NWRwYXZuZXoxby9TcGxhdG9vbl8zXyUyNTI4Mjg1NyUyNTI5Ljd6L2ZpbGU=`
-  * Count: 2857
-  * Contributor: RMED24
+  `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xc2thcFhmSkM4ZUFGbjBtMndGSVRCOUFuTXBZblpBWVkvdmlldz91c3A9c2hhcmluZw==`
+  * Count: 7047
+  * Contributor: Lunarミ
   ### Xenoblade Chronicles 3
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2x0cDMwMGcwenAwb2t1cC9YZW5vYmxhZGVfQ2hyb25pY2xlc18zXyUyNTI4MTg4MjclMjUyOS43ei9maWxl`
   * Count: 18827
