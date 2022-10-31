@@ -20,7 +20,9 @@
     + [Kirby and the Forgotten Land](#kirby-and-the-forgotten-land)
     + [Mario Kart 8 Deluxe](#mario-kart-8-deluxe)
     + [Metroid Dread](#metroid-dread-1)
+    + [Persona 5 Royal](#persona-5-royal)
     + [Pokemon Brilliant Diamon and Shining Pearl](#pokemon-brilliant-diamon-and-shining-pearl)
+    + [Pokemon Legends Arceus](#pokemon-legends-arceus)
     + [Pokemon Sword and Shield](#pokemon-sword-and-shield)
     + [Splatoon 2](#splatoon-2)
     + [Super Mario 3D World and Bowser's Fury](#super-mario-3d-world-and-bowser-s-fury)
@@ -103,7 +105,11 @@
   ### Metroid Dread
   `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2VxYmswZ2t6YXhpNmYxbC9EUkVBRHZ1bGthbjQ5MC43ei9maWxl`
   * Count: 490
-  * Contributor: Number1RatedSalesman1997	
+  * Contributor: Number1RatedSalesman1997
+  ### Persona 5 Royal
+  `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xM0xLSGY5M2ZUM0JXejVLc2NVMWdramhHQTBXbGJXRnEvdmlldz91c3A9c2hhcmVfbGluaw==`
+  * Count: 2422
+  * Contributor: Amine.SGA
   ### Pokemon Brilliant Diamon and Shining Pearl
   `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xM0k5c0o3NTJLZWdLUVhOU21oeXBhSHdFV0NjOE9yQTIvdmlldz91c3A9c2hhcmluZw==`
   * Count: 4577
