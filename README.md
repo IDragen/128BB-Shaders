@@ -32,7 +32,7 @@
     + [The Legend of Zelda - Link Awakening](#the-legend-of-zelda---link-awakening)
     + [Xenoblade Chronicles 2](#xenoblade-chronicles-2)
 - [Ryujinx](#ryujinx)
-    + [Luigi Mansion 3](luigi-mansion-3-1)
+    + [Luigi Mansion 3](#luigi-mansion-3-1)
     + [Splatoon 2](#splatoon-2-1)
     + [Splatoon 3](#splatoon-3)
     + [Xenoblade Chronicles 3](#xenoblade-chronicles-3)
