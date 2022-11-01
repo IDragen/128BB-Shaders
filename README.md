@@ -14,6 +14,7 @@
     + [Xenoblade Chronicles 3](#xenoblade-chronicles-3)
 - [Yuzu - Vulkan](#yuzu---vulkan)
     + [Animal Crossing New Horizons](#animal-crossing-new-horizons)
+    + [Bayonetta 3](#bayonetta-3)
     + [CTR Nitro Fueled](#ctr-nitro-fueled)
     + [Fire Emblem Three Houses](#fire-emblem-three-houses-1)
     + [Hyrule Warriors - Age of Calamity](#hyrule-warriors---age-of-calamity)
@@ -31,6 +32,7 @@
     + [The Legend of Zelda - Link Awakening](#the-legend-of-zelda---link-awakening)
     + [Xenoblade Chronicles 2](#xenoblade-chronicles-2)
 - [Ryujinx](#ryujinx)
+    + [Luigi Mansion 3](luigi-mansion-3-1)
     + [Splatoon 2](#splatoon-2-1)
     + [Splatoon 3](#splatoon-3)
     + [Xenoblade Chronicles 3](#xenoblade-chronicles-3)
@@ -82,6 +84,10 @@
   `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xSEEtX0RBcjZJa0o2QkJrZkE5VjNBbU5SWFd6S3FTRlkvdmlldz91c3A9c2hhcmluZw==`
   * Count: 4119
   * Contributor: TheNine351
+  ### Bayonetta 3
+  `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xZ1dPRmYyamFTXzBBOXJER1pxdVNRc1pKZURqTlYzOGovdmlldz91c3A9c2hhcmVfbGluaw==`
+  * Count: 2077
+  * Contributor: Samus・Aran
   ### CTR Nitro Fueled
   `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xdjBIcEwxbnZpRDhURjNOeHVzYVZ0aXRKTnhfZk51U0gvdmlldz91c3A9c2hhcmluZw==`
   * Count: 980
@@ -150,6 +156,10 @@
   * * *
   
 # Ryujinx
+  ### Luigi Mansion 3
+  `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xTnZyYWZpTkJxUzA0Q1QwS3JXY3ctMmE5V1Q1RWhKeXgvdmlldz91c3A9c2hhcmVfbGluaw==`
+  * Count: 1304
+  * Contributor: diabloIIIROS
   ### Splatoon 2
   `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xNFNxQWEteFJJZzU1VklyUDV1NkN1T0p2alBUM3BOajMvdmlldz91c3A9c2hhcmluZw==`
   * Count: 4305
